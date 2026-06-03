@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.todos{
+    height: 90vh;
+    width: 33vw;
+    border: 2px solid black;
+    padding: 12px;
+    margin: 2px;
+}
+
+.task{
+    font-size: large;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 4px;
+    background-color: aqua;
+    color: black;
+}
